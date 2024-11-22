@@ -2,7 +2,7 @@
 From the command line
 1. cd into indigov-challenge
 2. run `npm run first-time-eh` if its your first time running the front end or `npm start`
-In the browser of your choice navigate to (here)[localhost:3000]
+In the browser of your choice navigate to [here](localhost:3000)
 
 # To run the backend project
 If you don't have the Nest CLI install you will have to run 
@@ -10,7 +10,7 @@ If you don't have the Nest CLI install you will have to run
 From the command line
 1. cd into indigov-challenge-be
 2. run `npm run first-time-eh` if its your first time running the api or `nest start` if it isn't
-In the browser of your choice navigate to (here)[localhost:5000/api] to see the swagger
+In the browser of your choice navigate to [here](localhost:5000/api) to see the swagger
 
 
 # Below are the criteria I was working off of 
